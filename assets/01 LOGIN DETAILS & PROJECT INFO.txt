@@ -1,0 +1,9 @@
+**Admin Login Details** 
+
+Username: admin
+Password: admin
+
+**Customer Login Details**
+
+Username: judesuarez
+Password: 12345678
