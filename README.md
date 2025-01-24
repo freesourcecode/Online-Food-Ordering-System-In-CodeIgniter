@@ -6,21 +6,26 @@ Your customer can order food online, pay for it, and then have it delivered or p
 
 It’s easy to place an order: the customer just looks at your online menu on their laptop or phone.
 
-## About The Project
-The Online Food Ordering System focuses mostly on dealing with customer food order lists, as customers can browse available food items and add them to the cart for checkout.
+## About the Project
+The **Online Food Ordering System** focuses mostly on dealing with customer food order lists, as customers can browse available food items and add them to the cart for checkout.
 
 Additionally, the system shows all of the available eateries on the client side, along with their menus and images.
 
-Also, the Food Ordering System In CodeIgniter provides descriptions of all available restaurants, as well as their opening hours and locations.
+Also, the** Food Ordering System in CodeIgniter** provides descriptions of all available restaurants, as well as their opening hours and locations.
 
 Admin Panel and Client-Side are the two sections of this project. In order to place an order on this website, the user must first create an account.
 
 ## What is CodeIgniter?
-**CodeIgniter** is an Application Development Framework – a toolset – for PHP web site developers. Its purpose is to let you construct projects much faster than if you were programming code from start by providing a rich set of libraries for common activities, as well as a simple interface and logical structure to access these libraries.
 
-By reducing the amount of code required for a given operation, CodeIgniter allows you to focus more creatively on your project.
+**CodeIgniter** is an Application Development Framework – a toolset – for PHP web site developers. 
 
-To elaborate on the idea, the user can simply choose food products and add them to their cart. The system displays the entire amount in the customer’s cart section and allows the user to go to checkout. He or she can also update the shipment details throughout the order checkout process.
+Its purpose is to let you construct projects much faster than if you were programming code from start by providing a rich set of libraries for common activities, as well as a simple interface and logical structure to access these libraries.
+
+By reducing the amount of code required for a given operation, **CodeIgniter** allows you to focus more creatively on your project.
+
+To elaborate on the idea, the user can simply choose food products and add them to their cart. 
+
+The system displays the entire amount in the customer’s cart section and allows the user to go to checkout. He or she can also update the shipment details throughout the order checkout process.
 
 ## Online Food Ordering System: Features
 * Admin Panel
@@ -94,4 +99,6 @@ Lastly, type to the URL localhost/foodci.
 
 ![image](https://github.com/user-attachments/assets/bd0f377d-38f4-4446-8337-d40e9433d3ae)
 
+### 📌 The full documentation for the Online Food Ordering System in CodeIgniter is available at: ⬇️⬇️⬇️
 
+**https://itsourcecode.com/free-projects/php-project/complete-online-food-ordering-system-in-codeigniter-with-source-code/**
